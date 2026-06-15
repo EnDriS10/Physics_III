@@ -1,3 +1,3 @@
-# Physics_III
+# Quantum Physics
 
-Codes about Modern Physics
+Codes about QP
